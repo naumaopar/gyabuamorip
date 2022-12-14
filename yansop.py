@@ -1,5 +1,5 @@
 import math,sys
 if __name__=='__main__':
-  z=math.log10(8.8)
-  r=math.tan(z)+len('mufewo')
-  print(r**5)
+  z=math.log10(7.2)
+  r=math.tan(z)+len('behesifi')
+  print(r**2)
