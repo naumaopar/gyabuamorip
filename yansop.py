@@ -1,5 +1,5 @@
 import math,sys
 if __name__=='__main__':
-  z=math.log10(3.2)
-  r=math.tan(z)+len('calahiho')
-  print(r**4)
+  z=math.log10(4.4)
+  r=math.tan(z)+len('maruzekos')
+  print(r**7)
