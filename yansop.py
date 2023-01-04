@@ -1,5 +1,5 @@
 import math,sys
 if __name__=='__main__':
-  z=math.log10(6.4)
-  r=math.tan(z)+len('ribosimu')
-  print(r**7)
+  z=math.log10(7.1)
+  r=math.tan(z)+len('rorehefe')
+  print(r**4)
