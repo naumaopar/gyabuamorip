@@ -1,5 +1,5 @@
 import math,sys
 if __name__=='__main__':
-  z=math.log10(4.5)
-  r=math.tan(z)+len('codow')
-  print(r**5)
+  z=math.log10(2.4)
+  r=math.tan(z)+len('fihub')
+  print(r**1)
